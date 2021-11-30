@@ -22,6 +22,5 @@ if (answer === "no"){
     document.write("phasmopbia") 
     document.write("skyrim") 
     document.write("rocketleague") 
-    document.write("fifa") 
     document.write("madden") 
 }

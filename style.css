@@ -1,0 +1,22 @@
+img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%    
+}
+body {
+    background-color: rgb(185, 211, 212);
+}
+h1{
+    text-align: center;
+    color:royalblue;
+}
+h5{
+    text-align: center;
+    color:royalblue
+} 
+h2{
+text-align: center;
+ color:rgb(98, 193, 231)
+
+}
